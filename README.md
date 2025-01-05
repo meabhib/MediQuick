@@ -66,7 +66,7 @@ By integrating a user-friendly interface with efficient backend technologies, Me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/MediQuick.git
+   git clone https://github.com/meabhib/MediQuick.git
    cd MediQuick
    ```
 

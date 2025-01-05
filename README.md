@@ -98,15 +98,9 @@ By integrating a user-friendly interface with efficient backend technologies, Me
 ```
 MediQuick/
 |
-├── app.py               # Main Flask application
-├── templates/           # HTML templates
-├── static/
-│   ├── css/             # CSS files
-│   ├── js/              # JavaScript files
-│   └── images/          # Static assets
-├── data/
-│   └── symptoms.json    # Symptom-disease-medication mapping
-├── requirements.txt     # Project dependencies
+├── main.py               # Main Flask application
+├── templates/           # HTML folder
+│   ├── index.html       # main HTML file 
 └── README.md            # Project documentation
 ```
 
